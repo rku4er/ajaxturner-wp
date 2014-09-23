@@ -1,0 +1,5 @@
+[13-Feb-2014 09:56:00 UTC] PHP Fatal error:  Class 'UniteBaseFrontClassRev' not found in /home/ajax/public_html/wp-content/plugins/revslider/revslider_front.php on line 3
+[13-Feb-2014 09:57:04 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/ajax/public_html/wp-content/plugins/revslider/inc_php/revslider_widget.class.php on line 3
+[13-Feb-2014 09:57:43 UTC] PHP Fatal error:  Class 'UniteBaseAdminClassRev' not found in /home/ajax/public_html/wp-content/plugins/revslider/revslider_admin.php on line 3
+[10-Jul-2014 16:26:06 UTC] PHP Fatal error:  Class 'UniteBaseFrontClassRev' not found in /home/ajax/public_html/wp-content/plugins/revslider/revslider_front.php on line 3
+[10-Jul-2014 16:27:56 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/ajax/public_html/wp-content/plugins/revslider/inc_php/revslider_widget.class.php on line 3
